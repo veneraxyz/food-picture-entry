@@ -1,7 +1,10 @@
-// food-picture-01 entry, v1 (Node 22, standard library only).
+// food-picture-01 entry, v2 (Node 22, standard library only).
 // The picture is the entry.png beside this file: a photorealistic tonkotsu
-// ramen shot — tall glossy noodle pull, dripping ajitama yolk, bold chili-oil
-// spiral on cream broth, dark moody background with warm golden bokeh.
+// ramen shot — tall glossy noodle pull, molten ajitama yolk dripping INTO the
+// cream broth (v1's yolk cascaded down the bowl's exterior; the judge's
+// top-ranked entries drip into the broth instead), bold chili-oil spiral,
+// charred chashu, dark moody background with a rich warm golden bokeh cluster
+// and dense curling steam.
 // The program copies it to /output/entry.png (or MAKEFUN_OUTPUT_DIR when set,
 // for local runs). The judge sees exactly the bytes copied.
 
